@@ -5,3 +5,5 @@ title: test
 description: test
 ---
 test
+
+![test](/assets/1.png "test")
